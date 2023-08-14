@@ -1,4 +1,4 @@
-*{
+/* *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -513,7 +513,7 @@ html{
     text-decoration: none;
     align-items: center;
     line-height: 50px;
-}
+} */
 
 /* login */
 .login{
@@ -604,14 +604,14 @@ html{
 /* login */
 
 /* about */
-#about{
+/* #about{
     margin-top: 50px;
 }
 #about h1{
     text-align: center;    
     font-weight: bold;
     color: #1c1c50;
-}
+} */
 /* about */
 
 /* contact */
