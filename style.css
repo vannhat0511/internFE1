@@ -1,4 +1,4 @@
-/* *{
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -143,13 +143,13 @@
         font-size: 10px;
     }
 }
-/* home section */
+home section
 .home-section{
     width: 100%;
     height: 93vh;
     background-color: #a9a9a926;
 }
-/* navbar */
+navbar
 #navbar{
     background-color: #1c1c50;
     font-size: 16px;
@@ -176,7 +176,7 @@
     background-color: #1c1c50;
 }
 /* navbar */
-/* home content */
+/* home content
 .home{
     display: flex;
     align-items: center;
